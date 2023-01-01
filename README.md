@@ -1,0 +1,2 @@
+# FaraAvatarTimeEvents
+BeatSaberにおけるVRM AvatarのBlendShape切り替え時間イベントを設定するrepository
